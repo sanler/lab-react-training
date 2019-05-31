@@ -1,0 +1,10 @@
+.card-id-list {
+    width: 400px;
+    border: 1px black solid;
+    padding: 10px;
+    cursor: pointer;
+    margin: 5px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
